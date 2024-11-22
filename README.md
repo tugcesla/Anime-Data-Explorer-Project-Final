@@ -4,6 +4,12 @@
 
 Bu projede, MyAnimeList.net'ten ve Anime Background'dan alınan 21,460 anime verisi üzerinde analizler ve özellik mühendisliği teknikleri uyguladık. Anime başlıkları, türleri, temalar, demografik bilgiler ve popülerlik gibi özellikler kullanarak veriyi anlamaya çalıştık. Amaç, anime verilerini anlamlı kategorilere ayırarak, izleyici kitlesine yönelik segmentasyonlar ve öngörüler oluşturmak oldu. Bu sayede, anime içeriği hakkında derinlemesine analiz yaparak, farklı kategoriler üzerinden anlamlı sonuçlar elde etmeyi hedefledik.
 
+**Kullandığım Veri Set:** 
+
+Veri Seti ve Adresi:
+
+Animation_Movies = https://www.kaggle.com/datasets/harits/anime-database-2022
+
 **Sonuç**
 
 Bu projede, anime veri setini kullanarak çeşitli analizler ve özellik mühendisliği teknikleri uyguladık. Verinin içeriği hakkında daha derin bir anlayış geliştirmek ve anlamlı segmentasyonlar yapmak amacıyla farklı özellikler türettik. Ana hedef, anime verileri üzerinden anlamlı kategoriler oluşturmak ve bu kategorileri kullanarak izleyici kitlesine yönelik öngörülerde bulunmaktı.

@@ -1,6 +1,6 @@
 ## Anime-Data-Explorer-Project-Final
 
-# Proje Detayları:
+**Proje Detayları:**
 
 Bu projede, MyAnimeList.net'ten ve Anime Background'dan alınan 21,460 anime verisi üzerinde analizler ve özellik mühendisliği teknikleri uyguladık. Anime başlıkları, türleri, temalar, demografik bilgiler ve popülerlik gibi özellikler kullanarak veriyi anlamaya çalıştık. Amaç, anime verilerini anlamlı kategorilere ayırarak, izleyici kitlesine yönelik segmentasyonlar ve öngörüler oluşturmak oldu. Bu sayede, anime içeriği hakkında derinlemesine analiz yaparak, farklı kategoriler üzerinden anlamlı sonuçlar elde etmeyi hedefledik.
 

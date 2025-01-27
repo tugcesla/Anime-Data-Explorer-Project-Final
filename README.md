@@ -1,4 +1,42 @@
-## Anime-Data-Explorer-Project-Final
+## Project Details
+
+In this project, we applied analyses and feature engineering techniques on a dataset of 21,460 anime records sourced from MyAnimeList.net and Anime Background. We explored the data using features such as anime titles, genres, themes, demographics, and popularity. The aim was to categorize anime data into meaningful segments and create insights tailored to the audience. By conducting an in-depth analysis of anime content, we aimed to derive significant results through different categories.
+
+## Project Kaggle Link: https://www.kaggle.com/code/tueslaylmaz/aygaz-veri-analizi-bootcamp-anime-projefinal
+
+## Dataset Used:
+## Dataset and Source:
+## Animation_Movies = https://www.kaggle.com/datasets/harits/anime-database-2022
+
+## ** Results: ** 
+
+In this project, we used the anime dataset to apply various analyses and feature engineering techniques. To better understand the dataset's content and create meaningful segmentations, we derived new features. The primary goal was to create meaningful categories from anime data and use these categories to generate insights tailored to the audience.
+
+** The following analyses and results were particularly notable: **
+
+* Rating Category Segmentation:
+Audience segmentation was performed based on anime ratings from IMDB or MyAnimeList (MAL). Using the "Rating" column, animes were categorized as low, medium, or high-rated. This segmentation helps understand audience preferences for anime selection.
+
+* Outlier Detection:
+Using methods like Z-Score and LOF (Local Outlier Factor), anomalous values (outliers) in the dataset were identified. This is crucial for enhancing data accuracy and ensuring the reliability of the analysis.
+
+* Anime Duration Segmentation:
+Animes were categorized based on their duration into short, medium, and long-duration segments. This feature provides insights into viewer preferences regarding time investment.
+
+* Age Category Segmentation:
+Audience segmentation was performed based on age groups. This segmentation helps in understanding how certain anime appeal to specific age groups.
+
+* Feature Engineering:
+Meaningful features were derived using various numerical and categorical data in the anime dataset. Specifically, categorizing features like anime duration, ratings, and genres contributed to more meaningful segmentations.
+
+## Future Work and Improvements: 
+This project has provided significant insights at a beginner level for anime dataset analysis. However, future applications of more advanced models and algorithms could enable deeper predictions based on anime data. Additionally, further improvements in data cleaning and processing can enhance outcomes. For instance:
+
+* Employing more sophisticated outlier detection methods.
+* Applying advanced imputation techniques for missing data.
+Lastly, the segmentations and feature engineering methods applied in this project could contribute to developing more effective recommendation systems for the anime industry, focusing on audience preferences.
+
+## Anime-Data-Explorer-Project-Final - Turkish
 
 **Proje Detayları:**
 

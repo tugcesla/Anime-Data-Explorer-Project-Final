@@ -2,13 +2,14 @@
 
 In this project, we applied analyses and feature engineering techniques on a dataset of 21,460 anime records sourced from MyAnimeList.net and Anime Background. We explored the data using features such as anime titles, genres, themes, demographics, and popularity. The aim was to categorize anime data into meaningful segments and create insights tailored to the audience. By conducting an in-depth analysis of anime content, we aimed to derive significant results through different categories.
 
-## Project Kaggle Link: https://www.kaggle.com/code/tueslaylmaz/aygaz-veri-analizi-bootcamp-anime-projefinal
+**Project Kaggle Link: https://www.kaggle.com/code/tueslaylmaz/aygaz-veri-analizi-bootcamp-anime-projefinal**
 
-## Dataset Used:
-## Dataset and Source:
-## Animation_Movies = https://www.kaggle.com/datasets/harits/anime-database-2022
+**Dataset Used:**
+**Dataset and Source:**
 
-## ** Results: ** 
+**Animation_Movies = https://www.kaggle.com/datasets/harits/anime-database-2022**
+
+**Results:**
 
 In this project, we used the anime dataset to apply various analyses and feature engineering techniques. To better understand the dataset's content and create meaningful segmentations, we derived new features. The primary goal was to create meaningful categories from anime data and use these categories to generate insights tailored to the audience.
 

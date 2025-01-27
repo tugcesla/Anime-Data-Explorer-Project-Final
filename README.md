@@ -13,7 +13,7 @@ In this project, we applied analyses and feature engineering techniques on a dat
 
 In this project, we used the anime dataset to apply various analyses and feature engineering techniques. To better understand the dataset's content and create meaningful segmentations, we derived new features. The primary goal was to create meaningful categories from anime data and use these categories to generate insights tailored to the audience.
 
-** The following analyses and results were particularly notable: **
+**The following analyses and results were particularly notable:**
 
 * Rating Category Segmentation:
 Audience segmentation was performed based on anime ratings from IMDB or MyAnimeList (MAL). Using the "Rating" column, animes were categorized as low, medium, or high-rated. This segmentation helps understand audience preferences for anime selection.
